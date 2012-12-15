@@ -7,7 +7,6 @@
 %define girname	%mklibname %{oname}-gir %{api}
 %define devname	%mklibname -d %{oname} %{api}
 
-
 Summary:	New canvas widget for GTK+ that uses the cairo 2D library
 Name:		%{oname}2
 Version:	2.0.1
@@ -15,7 +14,7 @@ Release:	1
 Group:		Development/GNOME and GTK+
 License:	LGPL+
 URL:		http://sourceforge.net/projects/goocanvas
-Source0:	http://download.gnome.org/sources/%{oname}/%{url_ver}/%{oname}-%{version}.tar.xz
+Source0:	http://ftp.gnome.org/pub/GNOME/sources/%{oname}/%{url_ver}/%{oname}-%{version}.tar.xz
 
 BuildRequires:	intltool
 BuildRequires:	pkgconfig(gnome-doc-utils)

@@ -10,7 +10,7 @@
 Summary:	New canvas widget for GTK+ that uses the cairo 2D library
 Name:		%{oname}2
 Version:	2.0.2
-Release:	5
+Release:	6
 Group:		Development/GNOME and GTK+
 License:	LGPL+
 URL:		http://sourceforge.net/projects/goocanvas

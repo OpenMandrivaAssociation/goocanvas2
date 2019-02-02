@@ -20,6 +20,7 @@ BuildRequires:	intltool
 BuildRequires:	pkgconfig(gnome-doc-utils)
 BuildRequires:	pkgconfig(gobject-introspection-1.0)
 BuildRequires:	pkgconfig(gtk+-3.0)
+BuildRequires:	pkgconfig(gtk-doc)
 
 %description
 GooCanvas is a new canvas widget for GTK+ that uses the cairo 2D library for 

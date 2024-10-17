@@ -13,7 +13,7 @@ Version:	2.0.4
 Release:	2
 Group:		Development/GNOME and GTK+
 License:	LGPL+
-URL:		http://sourceforge.net/projects/goocanvas
+URL:		https://sourceforge.net/projects/goocanvas
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/%{oname}/%{url_ver}/%{oname}-%{version}.tar.xz
 
 BuildRequires:	intltool
